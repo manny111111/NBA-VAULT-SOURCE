@@ -1,0 +1,190 @@
+{
+    "bossBattles": [
+        {
+            "id": "CaptainLemerica113",
+            "name": "Captain Lemerica",
+            "difficulty": "Hard",
+            "team": [
+                "<:CaptainLamerica_BOSS:1415191946225520693> Lemerica (BOSS)",
+                "<:DUNCAN_GOATS:1414447831825125428> Tim Duncan",
+                "<:NOWITZSKI_GOATS:1414447836787114024> Dirk Nowitzki",
+                "<:WEMBANYAMA_GOAT:1414446014110105640> Victor Wembanyama"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:CaptainLamerica_BOSS:1415191946225520693>",
+                    "chance": 0.05
+                },
+                {
+                    "type": "pack",
+                    "id": "invinciblePack",
+                    "chance": 0.12
+                },
+                {
+                    "type": "xp",
+                    "amount": [2500, 5000]
+                },
+                {
+                    "type": "currency",
+                    "amount": [12000, 25000]
+                }
+            ]
+        },
+        {
+            "id": "VenomKobe332",
+            "name": "Venom Kobe",
+            "difficulty": "Impossible",
+            "team": [
+                "<:VENOMKOBE_BOSS:1415191958959427676> Venom Kobe (BOSS)",
+                "<:MJ_GOAT:1414438318091014254> Michael Jordan",
+                "<:LEBRON_GOAT:1414441592697389097> LeBron James",
+                "<:SHAQ_GOAT:1414442925156470864> Shaquille O'Neal"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:VENOMKOBE_BOSS:1415191958959427676>",
+                    "chance": 0.05
+                },
+                {
+                    "type": "pack",
+                    "id": "goatsPack",
+                    "chance": 0.7
+                },
+                {
+                    "type": "xp",
+                    "amount": [7000, 12000]
+                },
+                {
+                    "type": "currency",
+                    "amount": [23000, 45000]
+                }
+            ]
+        },
+        {
+            "id": "AntonyBatmanDavis553",
+            "name": "Anthony 'Batman' Davis",
+            "difficulty": "Medium",
+            "team": [
+                "<:anthonyedwardsBATMAN_boss:1415191944870494270> Anthony 'Batman' Davis (BOSS)",
+                "<:BOLLOL_100OVR:1414447843841675339> Bol Bol",
+                "<:GIANNIS_100OVR:1414445968887386202> Giannis Antetokounmpo",
+                "<:PORZINGIS_100OVR:1414447838619897946> Kristaps Porzingis"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:anthonyedwardsBATMAN_boss:1415191944870494270>",
+                    "chance": 0.03
+                },
+                {
+                    "type": "pack",
+                    "id": "superDeluxePack",
+                    "chance": 0.08
+                },
+                {
+                    "type": "xp",
+                    "amount": [2300, 4500]
+                },
+                {
+                    "type": "currency",
+                    "amount": [2643, 5000]
+                }
+            ]
+        },
+        {
+            "id": "JasonFireTatum221",
+            "name": "Jason 'Fire' Tatum",
+            "difficulty": "Easy",
+            "team": [
+                "<:JAYSONTATUM_BOSS:1415191950830604351> Jason 'Fire' Tatum (BOSS)",
+                "<:MJ_INVINCIBLE:1414441954196066414> Michael Jordan",
+                "<:MCGRADY_INVINCIBLE:1414446196638093434> Tracy McGrady",
+                "<:WEMBANYAMA_INVINCIBLE:1414446012042448926> Victor Wembanyama"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:JAYSONTATUM_BOSS:1415191950830604351>",
+                    "chance": 0.014
+                },
+                {
+                    "type": "pack",
+                    "id": "basePack",
+                    "chance": 0.45
+                },
+                {
+                    "type": "xp",
+                    "amount": [1000, 2000]
+                },
+                {
+                    "type": "currency",
+                    "amount": [500, 1500]
+                }
+            ]
+        },
+        {
+            "id": "JoshSheSaidSheWas18Giddey663",
+            "name": "Josh 'She Said She Was 18' Giddey",
+            "difficulty": "Medium",
+            "team": [
+                "<:JOSHGIDDEY_BOSS:1415191952697327616> Josh 'She Said She Was 18' Giddey (BOSS)",
+                "<:DUNCAN_100OVR:1414447829916717248> Tim Duncan",
+                "<:STEPHCURRY_100OVR:1414442545504583781> Stephen Curry",
+                "<:MING_100OVR:1414445997114785953> Yao Ming"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:JOSHGIDDEY_BOSS:1415191952697327616>",
+                    "chance": 10
+                },
+                {
+                    "type": "pack",
+                    "id": "100ovrPack",
+                    "chance": 0.42
+                },
+                {
+                    "type": "xp",
+                    "amount": [2500, 5000]
+                },
+                {
+                    "type": "currency",
+                    "amount": [2000, 4000]
+                }
+            ]
+        },
+        {
+            "id": "goldenstephcurry10001",
+            "name": "All Bosses",
+            "difficulty": "Insane",
+            "team": [
+                "<:russelWESTBROOK_BOSS:1415191956258033714> Russell Westbrook (BOSS)",
+                "<:VENOMKOBE_BOSS:1415191958959427676> Venom Kobe (BOSS)",
+                "<:CaptainLamerica_BOSS:1415191946225520693> Captain Lemerica (BOSS)",
+                "<:JOSHGIDDEY_BOSS:1415191952697327616> Josh 'She Said She Was 18' Giddey (BOSS)"
+            ],
+            "rewards": [
+                {
+                    "type": "card",
+                    "id": "<:stephcurry_boss:1421607878225035455>",
+                    "chance": 0.056
+                },
+                {
+                    "type": "pack",
+                    "id": "goatsPack",
+                    "chance": 1.45
+                },
+                {
+                    "type": "xp",
+                    "amount": [7999, 15000]
+                },
+                {
+                    "type": "currency",
+                    "amount": [45000, 90000]
+                }
+            ]
+        }
+    ]
+}

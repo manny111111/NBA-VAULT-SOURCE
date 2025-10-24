@@ -1,0 +1,16 @@
+{
+    "deluxeSettings": {
+        "deluxePrice": "50,000",
+        "100ovrCards": false,
+        "goatsCards": false,
+        "amethystCards": true,
+        "diamondCards": true,
+        "rubyCards": true,
+        "sapphireCards": true,
+        "emeraldCards": true,
+        "darkMatterCards": false,
+        "pinkDiamondCards": true,
+        "galaxyOpalCards": false,
+        "invincibleCards": false
+    }
+}

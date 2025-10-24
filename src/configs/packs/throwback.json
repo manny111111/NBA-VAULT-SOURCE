@@ -1,0 +1,21 @@
+{
+  "throwbackSettings": {
+    "throwbackPrice": "8,000,000",
+    "100ovrCards": false,
+    "goatsCards": false,
+    "amethystCards": false,
+    "diamondCards": false,
+    "rubyCards": false,
+    "sapphireCards": false,
+    "emeraldCards": false,
+    "darkMatterCards": false,
+    "pinkDiamondCards": false,
+    "galaxyOpalCards": false,
+    "invincibleCards": false,
+    "throwbackCards": true
+  },
+  "throwbackPackConfig": {
+    "includeThrowbackCards": true,
+    "priceSetting": "8,000,000"
+  }
+}

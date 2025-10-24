@@ -1,0 +1,16 @@
+{
+    "vaultUnlimitedSettings": {
+        "vaultUnlimitedPrice": "4,500,000",
+        "100ovrCards": true,
+        "goatsCards": true,
+        "amethystCards": true,
+        "diamondCards": true,
+        "rubyCards": true,
+        "sapphireCards": true,
+        "emeraldCards": true,
+        "darkMatterCards": true,
+        "pinkDiamondCards": true,
+        "galaxyOpalCards": true,
+        "invincibleCards": true
+    }
+}

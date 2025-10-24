@@ -1,0 +1,16 @@
+{
+    "goatsSettings": {
+        "goatsPrice": "3,000,000",
+        "100ovrCards": true,
+        "goatsCards": true,
+        "amethystCards": false,
+        "diamondCards": false,
+        "rubyCards": false,
+        "sapphireCards": false,
+        "emeraldCards": false,
+        "darkMatterCards": false,
+        "pinkDiamondCards": false,
+        "galaxyOpalCards": false,
+        "invincibleCards": true
+    }
+}

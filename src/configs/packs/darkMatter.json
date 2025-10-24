@@ -1,0 +1,16 @@
+{
+  "darkMatterSettings": {
+    "darkMatterPrice": "850,000",
+    "100ovrCards": false,
+    "goatsCards": false,
+    "amethystCards": false,
+    "diamondCards": false,
+    "rubyCards": false,
+    "sapphireCards": false,
+    "emeraldCards": false,
+    "darkMatterCards": true,
+    "pinkDiamondCards": false,
+    "galaxyOpalCards": true,
+    "invincibleCards": false
+  }
+}

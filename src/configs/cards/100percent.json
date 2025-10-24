@@ -1,0 +1,53 @@
+{
+    "100percent": [
+        {
+            "id": "stephcurry100",
+            "name": "Stephen Curry",
+            "emoji": "<:STEPHCURRYLEGO_100:1415382122251817121>",
+            "isActive": true,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "andreikirilenko100",
+            "name": "Andrei Kirilenko",
+            "emoji": "<:ANDREIKIRILENKO_100:1415198993494966343>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "anthonyedwards100",
+            "name": "Anthony Edwards",
+            "emoji": "<:ANTHONYEDWARDS_100:1415382140383662193>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "chrispaul100",
+            "name": "Chris Paul",
+            "emoji": "<:CHRISPAUL_100:1415382125896531978>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "kawhi100",
+            "name": "Kawhi Leonard",
+            "emoji": "<:KAWHIEONARD_100:1415382131655442432>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "kobebryant100",
+            "name": "Kobe Bryant",
+            "emoji": "<:KOBEEBRYANT2_100:1415382128866234481>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        },
+        {
+            "id": "stephcurry#2.100",
+            "name": "Stephen Curry",
+            "emoji": "<:STEPHCURRY_100:1415382137712021536>",
+            "isActive": false,
+            "price": "50,000,000 MT (50M)"
+        }
+    ]
+}

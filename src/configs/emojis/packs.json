@@ -1,0 +1,14 @@
+{
+    "packs": {
+        "basePack": "<:base_pack:1414705052014084166>",
+        "deluxePack": "<:deluxe_pack:1414703631823016068>",
+        "goatsPack": "<:goats_pack:1414702730814947368>",
+        "invinciblePack": "<:invincible_pack:1414708369096441949>",
+        "superDeluxePack": "<:superdeluxe_pack:1414710596795895850>",
+        "vaultUnlimitedPack": "<:vault_unlimited_pack:1414704339548766302>",
+        "100ovrPack": "<:100ovr_pack:1414763109804937247>",
+        "darkMatterPack": "<:DARKMATTER_PACK:1415411421403021452>",
+        "galaxyOpalPack": "<:GALAXYOPAL_PACK:1415452780562485288>",
+        "throwbackPack": "<:throwback_pack:1420388928065896570>"
+    }
+}

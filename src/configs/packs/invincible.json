@@ -1,0 +1,16 @@
+{
+    "invincibleSettings": {
+        "invinciblePrice": "1,200,000",
+        "100ovrCards": true,
+        "goatsCards": false,
+        "amethystCards": false,
+        "diamondCards": false,
+        "rubyCards": false,
+        "sapphireCards": false,
+        "emeraldCards": false,
+        "darkMatterCards": true,
+        "pinkDiamondCards": false,
+        "galaxyOpalCards": false,
+        "invincibleCards": true
+    }
+}
